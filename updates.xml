@@ -1,14 +1,14 @@
 <updates>
   <update>
-    <title>v1.0.0.2</title>
-    <text>Improved the Repo Runners launcher and added safer clean game updates.</text>
-    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.2</link>
+    <title>v1.0.0.4</title>
+    <text>Fixed Spawn bugs on test track, and added more obstacles to random gen track.</text>
+    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.4</link>
   </update>
 
   <update>
-    <title>v1.0.0.1</title>
-    <text>First successful online Repo Runners launcher update test.</text>
-    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.1</link>
+    <title>v1.0.0.3</title>
+    <text>Added a basic version of the random track gen plus extended test world challenge.</text>
+    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.3</link>
   </update>
 
   <update>
