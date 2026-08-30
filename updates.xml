@@ -1,0 +1,19 @@
+<updates>
+  <update>
+    <title>v1.0.0.2</title>
+    <text>Improved the Repo Runners launcher and added safer clean game updates.</text>
+    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.2</link>
+  </update>
+
+  <update>
+    <title>v1.0.0.1</title>
+    <text>First successful online Repo Runners launcher update test.</text>
+    <link>https://github.com/skittlecrafts123/RepoRunners-Updater/releases/tag/v1.0.0.1</link>
+  </update>
+
+  <update>
+    <title>Launcher Online</title>
+    <text>Added automatic version checking, installation and update support.</text>
+    <link>https://github.com/skittlecrafts123/RepoRunners-Updater</link>
+  </update>
+</updates>
